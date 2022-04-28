@@ -1,0 +1,6 @@
+# initialise project
+    go mod init booking-app 
+# printing
+    Printf()
+    Printfln()
+    print()
